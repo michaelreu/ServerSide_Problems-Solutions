@@ -1,0 +1,316 @@
+commit f8d7ce5cbdd183403b8aa0a248694e5b395f227b
+Author: michaelreu <michael.reubinof@live.biu.ac.il>
+Date:   Sun Jan 13 14:39:43 2019 -0800
+
+    today is done
+
+commit aa1cf0bb6b0074d32ef76a47fd8eafb91ff30e32
+Author: michaelreu <michael.reubinof@live.biu.ac.il>
+Date:   Sun Jan 13 14:21:46 2019 -0800
+
+    today is done
+
+commit e7897e26a691e468f20e1de639632ca089179b1b
+Author: michaelreu <michael.reubinof@live.biu.ac.il>
+Date:   Sun Jan 13 12:19:10 2019 -0800
+
+    today is done
+
+commit cfc757de57ae7372cffc8e36503041df843565ac
+Author: michaelreu <michael.reubinof@live.biu.ac.il>
+Date:   Sun Jan 13 11:11:32 2019 -0800
+
+    today is done
+
+commit 133e57d39a9c8b88af95c50afa66e9fcbcad4fec
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Sun Jan 13 20:07:22 2019 +0200
+
+    13.1.01.05
+
+commit 4dbfb82a57fd6e0adcb89a1553a53756edf9350f
+Merge: ac59d45 87796c5
+Author: michaelreu <michael.reubinof@live.biu.ac.il>
+Date:   Sun Jan 13 09:43:07 2019 -0800
+
+    Merge remote-tracking branch 'origin/master'
+
+commit ac59d4575608db77365e1eacb1ea89e3a31f8103
+Author: michaelreu <michael.reubinof@live.biu.ac.il>
+Date:   Sun Jan 13 09:42:48 2019 -0800
+
+    today is done
+
+commit 87796c5e37362a738e7872694eb5b1ab56f1a646
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Sun Jan 13 01:07:12 2019 +0200
+
+    13.1.01.05
+
+commit 8869c5c40013af843700f7ec1aec7ce75f6faa6b
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Sun Jan 13 01:03:05 2019 +0200
+
+    12.1.22.05
+
+commit 2b336b2197ecca512963b27dcf50eb07642e8251
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Sat Jan 12 22:06:05 2019 +0200
+
+    12.1.22.05
+
+commit 4655f7ca0a41dbb0869df150170e6d4cbb74fe46
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Sat Jan 12 21:11:30 2019 +0200
+
+    12.1.21.10
+
+commit 11511cb20d8b29e733427a116868110de256cca2
+Merge: 19e9f6e 9fe4fc3
+Author: michaelreu <michael.reubinof@live.biu.ac.il>
+Date:   Sat Jan 12 10:06:35 2019 -0800
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #	matrix/MatrixCreator.cpp
+    #	search/AStar.h
+    #	search/ISearcher.h
+
+commit 19e9f6e0a3ca1c25800653fb29f1745b59067ce6
+Author: michaelreu <michael.reubinof@live.biu.ac.il>
+Date:   Sat Jan 12 10:04:46 2019 -0800
+
+    today is done
+
+commit 9fe4fc391ff40ebeff835ad573add81bb0d8cdb4
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Sat Jan 12 19:29:14 2019 +0200
+
+    12.1.04.31  astar done
+
+commit cd44282c061327688efc8da9e72bbad612ab13f8
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Sat Jan 12 16:18:30 2019 +0200
+
+    12.1.04.31  astar done
+
+commit 62b563067dabc0798f4b1af77235e629914c81c0
+Author: michaelreu <michael.reubinof@live.biu.ac.il>
+Date:   Fri Jan 11 20:11:38 2019 -0800
+
+    long night
+
+commit 44c587710df37797533261c8e07bf07688bbc3fd
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Sat Jan 12 04:31:59 2019 +0200
+
+    12.1.04.31  astar almost
+
+commit 8f21ed97582ad0af84b9c6a9332f9c055dae61e5
+Merge: 6d8dc5b e30fff7
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Sat Jan 12 03:38:02 2019 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 6d8dc5b65045c0d36521849824455d9deec30a5b
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Sat Jan 12 03:37:16 2019 +0200
+
+    12.1.03.37 functor and astar
+
+commit e30fff798d633921f757f9d8fc795fa148662a4f
+Author: michaelreu <michael.reubinof@live.biu.ac.il>
+Date:   Fri Jan 11 17:05:35 2019 -0800
+
+    long night
+
+commit e9378bcf40b698866424f807de9bc2b04fe16de9
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Sat Jan 12 02:50:06 2019 +0200
+
+    11.1.23.02
+
+commit 9187e6be971cb888d462628d1f75d7fa393deded
+Author: michaelreu <michael.reubinof@live.biu.ac.il>
+Date:   Fri Jan 11 16:48:44 2019 -0800
+
+    long night
+
+commit af08da788083810eb79c3aae97b12239a48439ee
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Fri Jan 11 23:04:40 2019 +0200
+
+    11.1.23.02
+
+commit 292336f4dbd1d99568177de0c68f8863ee2c648c
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Fri Jan 11 20:02:43 2019 +0200
+
+    11.1.20.02 Astar try1
+
+commit d4c92a96a7ee0f5337f55ceb82a1f2ce567e76cf
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Fri Jan 11 16:27:29 2019 +0200
+
+    11.1.15.31 almost done free memory
+
+commit 075ba260a162d96eec9cc9018bc86b0236583528
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Fri Jan 11 16:14:58 2019 +0200
+
+    11.1.15.31 almost done free memory
+
+commit 2bfb6bc61e85d8c9a587311de1b28d511d5c7975
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Fri Jan 11 15:32:11 2019 +0200
+
+    11.1.15.31 on the way to free memory
+
+commit b65387736549e0a43c6640e566f2890b4ba9ba46
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Fri Jan 11 15:14:45 2019 +0200
+
+    11.1.15.14 closing files
+
+commit 45b2b05a86573515b1fafc58d41fbae5dc806cd0
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Fri Jan 11 14:41:12 2019 +0200
+
+    11.1.14.41
+
+commit b12691afd26a90360c572f19fe93e85aced16bec
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Fri Jan 11 14:35:16 2019 +0200
+
+    11.1.14.33 defines and readability + utils class
+
+commit c580d9b5de050b68c1ec49b937bf9ea987d386da
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Fri Jan 11 02:53:38 2019 +0200
+
+    11.1.02.53 toString of vector directions
+
+commit 368d3cedb0841b3f423191e963220857e379b05b
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Fri Jan 11 01:33:01 2019 +0200
+
+    11.1.01.32 merging is ok
+
+commit ec266ea12e640a8eeabf1e8ab956db9c4f7d5337
+Merge: 80cb10e b0f47c1
+Author: michaelreu <michael.reubinof@live.biu.ac.il>
+Date:   Thu Jan 10 14:55:17 2019 -0800
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #	Solver.h
+    #	main.cpp
+    #	search/BestFirstSearch.h
+    #	search/ISearchable.h
+    #	search/Node.h
+
+commit 80cb10e8beb33c2506de5c2a9ba22bfe86ab63f8
+Author: michaelreu <michael.reubinof@live.biu.ac.il>
+Date:   Thu Jan 10 14:47:42 2019 -0800
+
+    danger
+
+commit b0f47c12ce4605c911cd44071f11be68046103ec
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Fri Jan 11 00:21:04 2019 +0200
+
+    10.1.22.15 bestFirstSearch is done and generic minHeap
+
+commit 2fb28da821e07c52284ca82e6e3416ffb2f33626
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Fri Jan 11 00:02:43 2019 +0200
+
+    10.1.22.15 bestFirstSearch is done
+
+commit 2e7066143156fb5c20007b2b836a1501c26d5f81
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Thu Jan 10 23:54:10 2019 +0200
+
+    10.1.22.15 bestFirstSearch is done
+
+commit 67cbd6c2f01829b189436431537a056a34eb4dff
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Thu Jan 10 22:57:40 2019 +0200
+
+    10.1.22.15 bestFirstSearch is done
+
+commit 76a5aa0e5779a23d0a0041d72784f7991d58c5af
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Thu Jan 10 22:15:14 2019 +0200
+
+    10.1.22.15 building1
+
+commit 3d02c6c062b64ae9f70aef1dae07bff6b1662719
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Thu Jan 10 21:44:54 2019 +0200
+
+    10.1.21.44 building
+
+commit 0a9208cc747564ba28a04d8a47d88c726c77efd7
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Thu Jan 10 20:26:59 2019 +0200
+
+    10.1.20.25
+
+commit b899f8c441bffdc88ac700209fb91bee0655077e
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Thu Jan 10 19:25:25 2019 +0200
+
+    10.1.19.25
+
+commit 2c99dac34b4469617d9cf64b7b4c06da3f1cb9fc
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Thu Jan 10 13:51:45 2019 +0200
+
+    10.1.12.14
+
+commit ed106d1bb623c726d3b054920b00d245cf4b640e
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Thu Jan 10 12:14:30 2019 +0200
+
+    10.1.12.14
+
+commit 02b974e25a5004cbd303e6bb6c6f4db75f4d7e90
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Thu Jan 10 03:36:49 2019 +0200
+
+    10.1.03.36
+
+commit 9d20a05228a3ca09955dba85403fbe71478ffbda
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Thu Jan 10 03:03:32 2019 +0200
+
+    10.1.02.10
+
+commit fe0cd6ea01750796bbdfcdaa979d152f11c581cf
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Thu Jan 10 02:10:42 2019 +0200
+
+    10.1.02.10
+
+commit 3a2ce37085c1c16102423b4eda7f46bc7a33cb52
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Thu Jan 10 00:34:11 2019 +0200
+
+    9.1.22.31
+
+commit 81f82747cf2554217c9ce9a53c538fba9b3b21d0
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Wed Jan 9 22:31:51 2019 +0200
+
+    9.1.22.31
+
+commit cb84e5d32915887634f2f85daf634f11ceb3ce19
+Author: tamirashken <tamir.ashkenazy@live.biu.ac.il>
+Date:   Wed Jan 9 20:23:50 2019 +0200
+
+    Initial commit
+
